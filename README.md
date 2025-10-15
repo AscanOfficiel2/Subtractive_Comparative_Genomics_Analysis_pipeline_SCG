@@ -1,5 +1,5 @@
 
-# Module: Bacterial Pan-Proteome Construction and Functional Screening
+# Bacterial Pan-Proteome Construction and Functional Screening
 
 ## Objective
 This module builds and analyzes a bacterial **pan-proteome** from genome assemblies. It automates genome retrieval, annotation, clustering, essential gene prediction, and screening for antimicrobial resistance (ARGs), virulence factors (VFs), and host homology. The goal is to derive high-confidence candidate proteins with potential roles in human disease or therapeutic relevance.
