@@ -1,9 +1,3 @@
----
-title: "Pan-Proteome Analysis Pipeline — Module Overview"
-output:
-  html_document:
-    df_print: paged
----
 
 # Module: Bacterial Pan-Proteome Construction and Functional Screening
 
