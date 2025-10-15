@@ -175,9 +175,6 @@ Each step documents inputs, outputs, and rationale below.
 ## License
 This repository is released under the **MIT License**:
 
----
 
-## Citation
-> Ascandar, A.& Aminu, S.  (2025). *Bacterial Pan-Proteome Analysis Pipeline: Genome-to-Function Integration.* Mohammed VI Polytechnic University.
 
 
